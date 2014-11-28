@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+git clone provides a copy of all files in a github to your local repo. You must provide a URL to the github repository with this command
